@@ -1,0 +1,2 @@
+Scenario 1: Book a Train ticket chn to vzg
+Scenario 2: cancel the ticket
