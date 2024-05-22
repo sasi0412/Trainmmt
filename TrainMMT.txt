@@ -1,2 +1,6 @@
 Scenario 1: Book a Train ticket chn to vzg
 Scenario 2: cancel the ticket
+scenario 3: book flight ticket 
+scenario 4: cancel flight
+Scenario 5: book  a hotel 
+scenario 6: cancel hotel booking
