@@ -6,4 +6,6 @@ scenario 5:book bus ticket
 scenario 6: cancel bus
 Scenario 5: book  a hotel 
 scenario 6: cancel hotel booking
+scenario 7:hi sasi
+scenario 8.hi naveen bro
 
